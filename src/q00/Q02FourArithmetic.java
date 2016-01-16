@@ -8,7 +8,7 @@ import java.util.List;
  * 4桁の数字
  * 任意の箇所で分割して、それを四則演算で計算
  * その結果が元の数値の逆順と一致するもののを抽出
- * 
+ *
  * TODO evalがない言語には辛い
  */
 public class Q02FourArithmetic {
@@ -29,7 +29,8 @@ public class Q02FourArithmetic {
     private static boolean isAnswer(int num) {
         List<Integer> splited = split(num);
         int answer = reverse(num);
-
+        // TODO
+        return false;
     }
 
     public static void main(String[] args) {
