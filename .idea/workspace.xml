@@ -42,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q04CutBar.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q04CutBar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/q00/Q04CutBar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1914893">
-              <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#318#327#0" expanded="true" />
@@ -55,6 +55,16 @@
                 <element signature="e#1237#1238#0" expanded="true" />
                 <element signature="e#1494#1503#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q05MoneyChange.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/q00/Q05MoneyChange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.86170214">
+              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,6 +90,7 @@
         <option value="$PROJECT_DIR$/src/q00/Q03CardReverse.java" />
         <option value="$PROJECT_DIR$/src/q00/Q02FourArithmetic.java" />
         <option value="$PROJECT_DIR$/src/q00/Q04CutBar.java" />
+        <option value="$PROJECT_DIR$/src/q00/Q05MoneyChange.java" />
       </list>
     </option>
   </component>
@@ -183,7 +194,7 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Q04CutBar">
+  <component name="RunManager" selected="Application.Q05MoneyChange">
     <configuration default="false" name="Q01Kaibun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -232,6 +243,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="q00.Q04CutBar" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MathPuzzle" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Q05MoneyChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="q00.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="q00.Q05MoneyChange" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -439,16 +470,18 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.Q01Kaibun" />
       <item index="1" class="java.lang.String" itemvalue="Application.Q02FourArithmetic" />
       <item index="2" class="java.lang.String" itemvalue="Application.Q04CutBar" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Q05MoneyChange" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.Q04CutBar" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Q02FourArithmetic" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Q01Kaibun" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.Q05MoneyChange" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Q04CutBar" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Q02FourArithmetic" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Q01Kaibun" />
       </list>
     </recent_temporary>
   </component>
@@ -554,8 +587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/q00/Q04CutBar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1914893">
-          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#318#327#0" expanded="true" />
@@ -564,6 +597,14 @@
             <element signature="e#1237#1238#0" expanded="true" />
             <element signature="e#1494#1503#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/q00/Q05MoneyChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.86170214">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
